@@ -13,7 +13,7 @@
 
 **Languages:** C++, Python, JavaScript, SQL
 
-**Frontend:** React, TypeScript, HTML, CSS, Tailwind CSS
+**Frontend:** React, TypeScript, HTML, CSS
 
 **Backend:** Node.js, Express.js
 
