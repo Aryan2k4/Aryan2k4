@@ -25,12 +25,4 @@
 
 AI • Deep Learning • Computer Vision • NLP • Prompt Engineering • Generative AI • OpenAI GPT Models
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aryan2k4\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan2k4\&layout=compact)
-
----
-
 ⭐ Always Learning • Always Building • Always Improving
