@@ -1,28 +1,64 @@
-# Hi 👋, I'm Aryan Goswami
+<div align="center">
 
-### Computer Science Engineering Student | AI & ML Enthusiast | Aspiring Software Engineer
+# Hi, I'm Aryan Goswami 👋
 
-🚀 Passionate about Artificial Intelligence, Machine Learning, Full-Stack Development, and building software that solves real-world problems.
+**AI Software Engineer** — I turn complex AI workflows into clear, dependable products, from architecture to a shipped, tested experience.
 
-* 🌱 Currently learning **Machine Learning, Deep Learning, Generative AI, React, and System Design**
-* 💻 Interested in **AI/ML, Software Engineering, Web Development, and Open Source**
-* 🎯 Goal: Build impactful projects and grow into a skilled Software Engineer
-* 💬 Ask me about **Python, C++, JavaScript, React, AI/ML, DBMS, OS, and DSA**
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-66e7ff?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-xi-six-astatt22lg.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-goswami-6b0014324/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-200%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Aryan2k4/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ag2k402122004)
+
+</div>
+
+---
+
+### 🧭 About
+
+Computer Science undergraduate at **Atal Bihari Vajpayee Government Institute of Engineering and Technology** with strong fundamentals in data structures, algorithms, and object-oriented design. I build full-stack, production-style systems independently — REST APIs, distributed multi-tiered backends, automated testing, and Git/GitHub-based CI/CD workflows. Comfortable taking ambiguous, open-ended problems from concept through to a working, tested, deployed system.
+
+Currently an **AI Track Virtual Intern at Infosys Springboard 7.0** (National Cohort), covering supervised/unsupervised ML, deep learning, NLP, and computer vision with benchmarked capstone evaluations.
+
+---
 
 ### 🛠️ Tech Stack
 
-**Languages:** C++, Python, JavaScript, SQL
+**Languages:** Python · JavaScript · TypeScript · C++ · SQL
+**Backend:** FastAPI · Node.js · REST API Design · Clean Architecture · Automated Testing
+**Frontend:** React 18 · TypeScript
+**AI / ML:** LLM Pipeline Design (Gemini, Groq LLaMA 3.3-70B) · Prompt Engineering · Feature Engineering · Model Evaluation
+**Infra:** PostgreSQL · Supabase · SQLAlchemy · Docker · Git/GitHub · CI/CD · Linux
 
-**Frontend:** React, TypeScript, HTML, CSS ,Tailwind CSS
+---
 
-**Backend:** Node.js, Express.js
+### 🚀 Featured Projects
 
-**Database:** MySQL, Supabase
+| Project | Description | Stack |
+|---|---|---|
+| **[AG-ASE-2026](https://github.com/Aryan2k4/AI-Software-Engineer)** | Sole engineer of a 7-stage LLM pipeline transforming a one-sentence idea into a 9-section engineering blueprint — export/share subsystem backed by 174 passing automated tests. | React 18 · FastAPI · Supabase · Gemini API |
+| **[ARYA ResumeIQ](https://github.com/Aryan2k4/ARYA-ResumeIQ)** | 5-dimensional ATS resume analysis engine with job-description keyword matching across 8 engineering roles. | FastAPI · React · Groq LLaMA 3.3 |
+| **[ARYA InterviewMate](https://github.com/Aryan2k4/ARYA-InterviewMate)** | Adaptive mock-interview platform with role-specific questions and real-time 5-axis AI scoring. | FastAPI · TypeScript · Groq LLaMA 3.3 |
+| **[AI MindMap Studio](https://github.com/Aryan2k4/AI-MindMap-Studio)** | Turns questions into interactive, force-directed knowledge maps via Gemini structured output. | Node.js · Gemini · Docker · Cloud Run |
+| **[Habit Tracker](https://github.com/Aryan2k4/Habit-Tracker-2)** | Full-stack system for goal hierarchies, daily habit tracking, streaks, and progress insights. | Full-stack · Auth · Analytics |
 
-**Tools:** Git, GitHub, VS Code, Postman
+📄 See the full case studies, credentials, and résumé on my **[live portfolio →](https://portfolio-xi-six-astatt22lg.vercel.app/)**
 
-### 🧠 Certifications
+---
 
-AI • Deep Learning • Computer Vision • NLP • Prompt Engineering • Generative AI • OpenAI GPT Models
+### 📜 Certifications
 
-⭐ Always Learning • Always Building • Always Improving
+- Oracle Certified Foundations Associate — Agentic AI *(2026)*
+- Oracle Cloud Infrastructure (OCI) — Generative AI Professional *(2025)*
+- Infosys Springboard — 16 credentials across AI, Deep Learning, NLP, Computer Vision, Generative AI & Prompt Engineering
+- IIT Bombay Spoken Tutorial — Python, C++, Linux, PHP & MySQL
+- 200+ LeetCode problems solved: arrays, trees, graphs, DP, sliding window, two pointers
+
+*(Full certificate library with verifiable links is on the [portfolio site](https://portfolio-xi-six-astatt22lg.vercel.app/#credentials).)*
+
+---
+
+### 📫 Connect
+
+📧 aryangoswami022k4@gmail.com · 🌐 [Portfolio](https://portfolio-xi-six-astatt22lg.vercel.app/) · 💼 [LinkedIn](https://www.linkedin.com/in/aryan-goswami-6b0014324/)
+
+</div>
