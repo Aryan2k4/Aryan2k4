@@ -23,9 +23,13 @@ Right now I'm also doing the AI Track internship at Infosys Springboard 7.0 (Nat
 ### Tech Stack
 
 **Languages:** Python · JavaScript · TypeScript · C++ · SQL
+
 **Backend:** FastAPI · Node.js · REST APIs · SQLAlchemy · automated testing
+
 **Frontend:** React 18 · TypeScript
+
 **AI/ML:** LLM pipelines (Gemini, Groq LLaMA 3.3-70B), agentic tool-calling, prompt engineering, gradient boosting, feature engineering
+
 **Infra:** PostgreSQL · SQLite · Supabase · Docker · Git/GitHub · Linux · Postman
 
 ---
