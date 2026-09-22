@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm Aryan Goswami 👋
+# Hi, I'm Aryan Goswami
 
-**AI Software Engineer** — I turn complex AI workflows into clear, dependable products, from architecture to a shipped, tested experience.
+CS undergrad building backend systems and AI-powered apps — mostly FastAPI + React, with a growing focus on agentic AI.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-66e7ff?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-xi-six-astatt22lg.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-goswami-6b0014324/)
@@ -12,53 +12,59 @@
 
 ---
 
-### 🧭 About
+### About
 
-Computer Science undergraduate (B.Tech, graduating May 2027) at **Atal Bihari Vajpayee Government Institute of Engineering and Technology**, with strong fundamentals in data structures, algorithms, object-oriented design, operating systems, and complexity analysis (200+ LeetCode problems solved). I independently build distributed, multi-tiered backend systems, ML pipelines, and agentic AI systems — REST APIs, automated testing, and Git/GitHub-based CI/CD workflows. Comfortable taking ambiguous, open-ended problems from concept through to a scalable, tested, deployed system in agile sprints.
+I'm a final-year Computer Science student (graduating May 2027) at Atal Bihari Vajpayee Government Institute of Engineering and Technology, Shimla. My core CS fundamentals — DSA, OOP, OS, complexity analysis — are backed by 200+ solved LeetCode problems, but what I actually enjoy is taking a vague idea and building it into something that works end-to-end: a real API, a working UI, tests that actually pass, and a deployed system at the end of it.
 
-Currently an **AI Track Virtual Intern at Infosys Springboard 7.0** (National Cohort), covering supervised/unsupervised ML, deep learning, NLP, and computer vision with benchmarked capstone evaluations.
+Right now I'm also doing the AI Track internship at Infosys Springboard 7.0 (National Cohort), working through supervised/unsupervised ML, deep learning, NLP, and computer vision.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages:** Python · JavaScript · TypeScript · C++ · SQL
-**Core CS:** Data Structures & Algorithms · Object-Oriented Design · Operating Systems · Complexity Analysis · System Design · Distributed Systems
-**Backend:** FastAPI · Node.js · REST API Design · Clean Architecture · Multi-Tiered Architecture · Automated Testing · Agile Development
+**Backend:** FastAPI · Node.js · REST APIs · SQLAlchemy · automated testing
 **Frontend:** React 18 · TypeScript
-**AI / ML:** LLM Pipeline Design (Gemini, Groq LLaMA 3.3-70B) · Agentic Tool-Calling · Prompt Engineering · Predictive Modeling (Gradient Boosting) · Feature Engineering · Model Evaluation
-**Infra:** PostgreSQL · SQLite · Supabase · SQLAlchemy · Docker · Git/GitHub · CI/CD · Linux · Postman
+**AI/ML:** LLM pipelines (Gemini, Groq LLaMA 3.3-70B), agentic tool-calling, prompt engineering, gradient boosting, feature engineering
+**Infra:** PostgreSQL · SQLite · Supabase · Docker · Git/GitHub · Linux · Postman
 
 ---
 
-### 🚀 Featured Projects
+### Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| **[AG-ASE-2026](https://github.com/Aryan2k4/AI-Software-Engineer)** | Sole engineer of a 7-stage LLM pipeline transforming a one-sentence idea into a 9-section engineering blueprint — export/share subsystem backed by 174 passing automated tests. | React 18 · FastAPI · Supabase · Gemini API |
-| **[Infosys Agentic AI for Smart Facility Operations and Optimization](https://github.com/Aryan2k4/Agentic-FacilityOps-AI-Platform)** | Multi-agent facility management system; built the Predictive Maintenance module — a Gradient Boosting model on NASA's C-MAPSS turbofan dataset (MAE 14.81, R² 0.747) plus a Maintenance Agent using agentic tool-calling that autonomously issues cross-agent work-order handoffs, deployed via Docker Compose with 59/59 automated tests passing. | FastAPI · React · SQLite · Docker Compose · scikit-learn · Groq LLaMA 3.3-70B |
-| **[ARYA ResumeIQ](https://github.com/Aryan2k4/ARYA-ResumeIQ)** | 5-dimensional ATS resume analysis engine with job-description keyword matching across 8 engineering roles. | FastAPI · React · Groq LLaMA 3.3 |
-| **[ARYA InterviewMate](https://github.com/Aryan2k4/ARYA-InterviewMate)** | Adaptive mock-interview platform with role-specific questions and real-time 5-axis AI scoring. | FastAPI · TypeScript · Groq LLaMA 3.3 |
-| **[AI MindMap Studio](https://github.com/Aryan2k4/AI-MindMap-Studio)** | Turns questions into interactive, force-directed knowledge maps via Gemini structured output. | Node.js · Gemini · Docker · Cloud Run |
-| **[Habit Tracker](https://github.com/Aryan2k4/Habit-Tracker-2)** | Full-stack system for goal hierarchies, daily habit tracking, streaks, and progress insights. | Full-stack · Auth · Analytics |
+**[AG-ASE-2026](https://github.com/Aryan2k4/AI-Software-Engineer)**
+A 7-stage LLM pipeline that turns a one-line idea into a 9-section engineering blueprint. Built solo — React 18, FastAPI, Supabase, Gemini API. Has an export/share subsystem with 174 passing tests.
 
-📄 See the full case studies, credentials, and résumé on my **[live portfolio →](https://portfolio-xi-six-astatt22lg.vercel.app/)**
+**[Agentic FacilityOps AI Platform](https://github.com/Aryan2k4/Agentic-FacilityOps-AI-Platform)**
+Multi-agent system for facility management, built as part of the Infosys internship. I built the Predictive Maintenance module — a gradient boosting model trained on NASA's C-MAPSS turbofan dataset (MAE 14.81, R² 0.747) — plus a Maintenance Agent that autonomously hands off work orders to other agents. Deployed with Docker Compose, 59/59 tests passing.
+
+**[ARYA ResumeIQ](https://github.com/Aryan2k4/ARYA-ResumeIQ)**
+ATS resume analyzer scoring across 5 dimensions, with job-description keyword matching for 8 engineering roles. FastAPI + React + Groq LLaMA 3.3.
+
+**[ARYA InterviewMate](https://github.com/Aryan2k4/ARYA-InterviewMate)**
+Mock interview platform with role-specific questions and real-time AI scoring across 5 axes. FastAPI + TypeScript + Groq LLaMA 3.3.
+
+**[AI MindMap Studio](https://github.com/Aryan2k4/AI-MindMap-Studio)**
+Converts a question into an interactive, force-directed knowledge map using Gemini's structured output. Node.js + Gemini, deployed on Cloud Run via Docker.
+
+**[Habit Tracker](https://github.com/Aryan2k4/Habit-Tracker-2)**
+Full-stack app for goal hierarchies, daily habit tracking, streaks, and progress insights.
+
+More detail on all of these (plus my résumé and certificates) is on my [portfolio site](https://portfolio-xi-six-astatt22lg.vercel.app/).
 
 ---
 
-### 📜 Certifications
+### Certifications
 
-- Oracle Agentic AI Certified Foundations Associate *(2026)*
-- Oracle Cloud Infrastructure (OCI) — Generative AI Professional *(2025)*
+- Oracle Agentic AI Certified Foundations Associate (2026)
+- Oracle Cloud Infrastructure (OCI) — Generative AI Professional (2025)
 - Infosys Springboard — 16 credentials across AI, Deep Learning, NLP, Computer Vision, Generative AI & Prompt Engineering
 - IIT Bombay Spoken Tutorial — Python, C++, Linux, PHP & MySQL
 - freeCodeCamp — Responsive Web Design, Scientific Computing with Python
-- 200+ LeetCode problems solved: arrays, trees, graphs, DP, sliding window, two pointers
-
-*(Full certificate library with verifiable links is on the [portfolio site](https://portfolio-xi-six-astatt22lg.vercel.app/#credentials).)*
+- 200+ LeetCode problems across arrays, trees, graphs, DP, sliding window, two pointers
 
 ---
 
-### 📫 Connect
+### Reach me
 
 📧 aryangoswami022k4@gmail.com · 🌐 [Portfolio](https://portfolio-xi-six-astatt22lg.vercel.app/) · 💼 [LinkedIn](https://www.linkedin.com/in/aryan-goswami-6b0014324/)
